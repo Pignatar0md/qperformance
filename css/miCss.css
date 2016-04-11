@@ -1,0 +1,32 @@
+.logout{
+    padding-left: 68%; 
+    padding-bottom: 5px; 
+    padding-top: 5px;
+}
+.logoIndex{
+    margin: 2% 0% 0% 8%;
+    border: 0
+}
+.welcome{
+    color: #fd5019;
+}
+.authError{
+    color: darkred;
+}
+.toPage{
+    color: #fd5019
+}
+.footer{
+    height: 8%; /* Altura del Footer en px*/
+    clear: both;
+    background-color: black;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    width: 98%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.ftstext{
+    color: white;
+}
